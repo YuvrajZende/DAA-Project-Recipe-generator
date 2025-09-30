@@ -1,0 +1,37 @@
+[
+  {
+    "name": "greedy",
+    "value": 14.0,
+    "meta": {
+      "strategy": "greedy_row_min"
+    }
+  },
+  {
+    "name": "dnc",
+    "value": 13.0,
+    "meta": {
+      "strategy": "divide_and_conquer_block_heuristic"
+    }
+  },
+  {
+    "name": "dp",
+    "value": 13.0,
+    "meta": {
+      "strategy": "dp_bitmask"
+    }
+  },
+  {
+    "name": "bt",
+    "value": 13.0,
+    "meta": {
+      "strategy": "backtracking_with_bound"
+    }
+  },
+  {
+    "name": "hungarian",
+    "value": 13.0,
+    "meta": {
+      "strategy": "hungarian"
+    }
+  }
+]

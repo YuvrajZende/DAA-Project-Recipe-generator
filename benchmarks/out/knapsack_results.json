@@ -1,0 +1,37 @@
+[
+  {
+    "name": "greedy",
+    "value": 83,
+    "meta": {
+      "strategy": "greedy_ratio"
+    }
+  },
+  {
+    "name": "dnc",
+    "value": 86,
+    "meta": {
+      "strategy": "divide_and_conquer_meet_in_middle"
+    }
+  },
+  {
+    "name": "dp",
+    "value": 86,
+    "meta": {
+      "strategy": "dp_table"
+    }
+  },
+  {
+    "name": "bt",
+    "value": 86,
+    "meta": {
+      "strategy": "backtracking_fractional_bound"
+    }
+  },
+  {
+    "name": "bnb",
+    "value": 86,
+    "meta": {
+      "strategy": "branch_and_bound"
+    }
+  }
+]
